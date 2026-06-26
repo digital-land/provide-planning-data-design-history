@@ -23,7 +23,7 @@ export default function (eleventyConfig) {
     },
     url:
       process.env.GITHUB_ACTIONS &&
-      'https://tvararu.github.io/provide-planning-data-design-history/'
+      'https://digital-land.github.io/provide-planning-data-design-history/'
   })
 
   // Passthrough
